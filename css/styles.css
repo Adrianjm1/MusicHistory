@@ -78,6 +78,13 @@ header .textos-header{
     text-align: center;
 }
 
+.textos-header img {
+    border-radius: 50%;
+}
+.marquesina {
+    color: #fff;
+}
+
 .textos-header h1{
     font-size: 50px;
     color:#fff;
@@ -88,6 +95,7 @@ header .textos-header{
     font-weight: 300;
     color:#fff;
 }
+
 
 .wave{
     position: absolute;
